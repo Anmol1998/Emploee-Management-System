@@ -1,4 +1,4 @@
-# Emploee-Management-System
+# Employee-Management-System
 Employee management system is a simple console application developed using
 C language. Our mini project utilizes various aspects of C language such as file
 handling, linked lists, arrays and data structures. With this simple application,
